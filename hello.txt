@@ -1,2 +1,6 @@
 我进行了修改
+<<<<<<< HEAD
 main
+=======
+other branch change
+>>>>>>> other_branch
